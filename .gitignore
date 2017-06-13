@@ -1,0 +1,7 @@
+*.o
+onlineplayer
+Makefile
+*.pro.*
+.svn/
+sftp.sh
+tags
