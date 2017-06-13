@@ -1,0 +1,9 @@
+##Onlineplayer##
+
+下载qmake 工具
+
+编译步骤
+（切换到源码目录下）
+1.qmake
+2.make
+
