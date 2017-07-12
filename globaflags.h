@@ -14,7 +14,6 @@
 #define PLAYLISTFOLDER  "/home/samba/music"
 
 
-
 /**************audio config***************/
 #define CONFIG_AUDIOALSA
 #define BUFFSIZE 3072
